@@ -5,9 +5,6 @@
 ## Overview
 Devreux is a cutting-edge technology company committed to developing innovative hardware and software solutions that empower businesses and users. Our focus spans across multiple domains, including programming resources, enterprise tooling, encrypted communication, and distributed computing solutions.
 
-## Mission Statement
-"Create a better today, shape a greater tomorrow."
-
 ## Key Technologies
 At Devreux, we build robust, scalable, and secure solutions for a modern digital landscape. Our core focus areas include:
 
